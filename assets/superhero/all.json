@@ -1,4 +1,4 @@
 [
-  {"id": 170, "name": "chameleon", "power": 28, "gender": "male"},
-  {"id": 178, "name": "superman", "power": 100, "gender": "male"}
+  {"id": "170", "name": "chameleon", "power": 28, "gender": "male"},
+  {"id": "178", "name": "superman", "power": 100, "gender": "male"}
 ]
