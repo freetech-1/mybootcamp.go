@@ -1,4 +1,38 @@
 [
-  {"id": 170, "name": "chameleon", "power": 28, "gender": "male"},
-  {"id": 178, "name": "superman", "power": 100, "gender": "male"}
+  {
+    "id": 170,
+    "name": "chameleon",
+    "power": 28,
+    "gender": "male",
+    "relatives": ["Lizard King", "Shade Runner"]
+  },
+  {
+    "id": 171,
+    "name": "nightblade",
+    "power": 67,
+    "gender": "female",
+    "relatives": ["Shadow Fox", "Moon Whisper"]
+  },
+  {
+    "id": 172,
+    "name": "stormcaller",
+    "power": 82,
+    "gender": "male",
+    "relatives": ["Thunder Maiden"]
+  },
+  {
+    "id": 173,
+    "name": "pyra nova",
+    "power": 91,
+    "gender": "female",
+    "relatives": []
+  },
+  {
+    "id": 174,
+    "name": "iron fang",
+    "power": 76,
+    "gender": "male",
+    "relatives": ["Steel Howl", "Moon Wolf"]
+  }
 ]
+
